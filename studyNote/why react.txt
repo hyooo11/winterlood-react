@@ -1,4 +1,6 @@
 리액트를 사용해야 하는 기본적인 특징 3가지
+(node기반의 자바스크립트 ui 라이브러리)
+
    1. 리액트는 컴포넌트(component) 기반의 ui 라이브러리이기 때문에  
    산탄총 수술(많은 페이지의 중복 코드를 수 없이 수정해야하는 일)을 해야하는 문제를 해결해줌
 
@@ -9,4 +11,11 @@
    선언형 프로그래밍, 그냥 목적을 바로 말하는 프로그래밍(react)
    
    3. virtual DOM (가상의 돔을 쓰겠다 라는 뜻)을 이용할 수 있기 때문
+
+webpack, babel를 감싼 패키지 create react app(boiler plate)
+
+깃허브에 올릴땐 node_modules는 올리지 않음
+node_modules이 없는 파일을 받았을땐
+
+npm i(npm install) 입력해서 설치하면 됨.
    
