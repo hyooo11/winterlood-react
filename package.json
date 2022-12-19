@@ -1,0 +1,23 @@
+{
+  "name": "winterlood-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyooo11/winterlood-react.git"
+  },
+  "author": "hyojin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyooo11/winterlood-react/issues"
+  },
+  "homepage": "https://github.com/hyooo11/winterlood-react#readme",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
